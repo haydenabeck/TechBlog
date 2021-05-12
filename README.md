@@ -52,7 +52,23 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 
 ## Screenshots
-<img src="" alt=""/>
+Homepage before login
+<img src=".\assets\homepage-before-login.png" alt=""/>
+
+Homepage after login
+<img src=".\assets\homepage-after-login.png" alt=""/>
+
+Creating/Saving a new blogpost
+<img src=".\assets\creating-saving-blogpost.png" alt=""/>
+
+Commenting
+<img src=".\assets\commenting.png" alt=""/>
+
+Creating a new user
+<img src=".\assets\creating-new-user.png" alt=""/>
+
+Create a new blog post as a new user
+<img src=".\assets\create-new-blogpost-as-new-user.png" alt=""/>
 
 ## Contact 
 #### Name (@haydenabeck)
