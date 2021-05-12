@@ -8,8 +8,11 @@
     "description": "How AI is changing the consumer market, programming, cybersecurity, database architecture, and more!"
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "name": "What's that humming sound?",
+    "description": "Tired of your fans running hot on your pc???? Me too!"
+  },
+  {
+    "name": "No more nasty desk space!",
+    "description": "How to keep your desk clean, organized and free of clutter."
   }
 ]
