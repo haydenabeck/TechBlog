@@ -13,5 +13,25 @@
     "name": "Amiko",
     "email": "amiko2k20@aol.com",
     "password": "password12345"
+  },
+  {
+    "name": "Stan",
+    "email": "stan@aol.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Billy",
+    "email": "billy@aol.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Alamala",
+    "email": "alamala@aol.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Creature from the Black Lagoon",
+    "email": "thenameisfrank@aol.com",
+    "password": "password12345"
   }
 ]
