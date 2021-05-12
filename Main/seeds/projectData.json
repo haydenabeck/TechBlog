@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Music Feeds Me",
+    "description": "A mobile app that connects to your personal neural link designed to send you notifications whenever a concert is playing in your area."
+  },
+  {
+    "name": "The Ultimate Tech",
+    "description": "How AI is changing programming, cybersecurity, database architecture, and more!"
+  },
+  {
+    "name": "Roll 'Em Up",
+    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
+    "needed_funding": 800
+  }
+]
