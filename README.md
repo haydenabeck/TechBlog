@@ -2,6 +2,7 @@
 
 ## Live Link
 https://github.com/haydenabeck/TechBlog
+https://evening-woodland-62741.herokuapp.com/
 
 ## Contributors 
 @haydenabeck
